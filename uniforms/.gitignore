@@ -1,0 +1,3 @@
+build/
+# include glad's folder again
+!glad/
