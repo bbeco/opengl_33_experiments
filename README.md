@@ -7,5 +7,5 @@ This repository contains several small projects I developed while learning OpenG
 - GLAD to bind to the GPU's OpenGL capabilities
 
 ### GLFW install
-I encountered some problem with inputs related to the binary package of glfw shipped by my package manager, so I donwloaded and built the GLFW library from source.
+I encountered some problems with inputs related to the binary package of glfw shipped by my package manager, so I donwloaded and built the GLFW library from source.
 Just clone the [repo](https://github.com/glfw/glfw) and follow the instructions.
